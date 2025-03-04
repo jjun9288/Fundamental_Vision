@@ -1,1 +1,0 @@
-# Camera Calibration code using OpenCV
